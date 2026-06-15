@@ -1,6 +1,6 @@
 # Lobola — Open-Source Pap-Cooking Robot
 
-**Lobola** is an open-source robotic system that automates the cooking of *pap* (also known as *sadza* or maize porridge). This repository contains the complete material design and control software for the system: electrical schematics, mechanical CAD models, and the embedded firmware.
+**Lobola** is an open-source robotic system that automates the cooking of *pap* (also known as *sadza* or maize porridge). This repository contains the complete material design and control software for the system: electrical schematics, mechanical CAD models, and the embedded firmware. A video of the device in operation can be watched at [`YouTube`](https://www.youtube.com/watch?v=2pBUqsLKNFs).
 
 ## Overview
 
